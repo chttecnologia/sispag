@@ -1,0 +1,21 @@
+{
+    "name": "cht/sispag",
+    "description": "ITAU Sispag CNAB 240 package for Laravel 5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Ataides",
+            "email": "alexandre@cht.net.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cht\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
