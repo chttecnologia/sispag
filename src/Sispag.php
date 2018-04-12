@@ -49,5 +49,6 @@ class Sispag
 
         // TODO: Cnab400\SispagReturn
         return null;
+
     }
 }
